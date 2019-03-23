@@ -1,5 +1,5 @@
 !function () {
-    var duration = 20
+    var duration = 60
     var speedButton = $('.speedButton')
     function writeCode(prefix, css, fn){
         let id
